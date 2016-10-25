@@ -1,5 +1,4 @@
 # GBCC TechCompany
-This repository stores GBCC Tech Company's plan or description
 
 
 ### What is GBCC Tech Company?
