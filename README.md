@@ -1,13 +1,13 @@
-# GBCC TechCompany
+# GBCC Tech
 
 
-### What is GBCC Tech Company?
-- GBCC Tech Company is a club at Great Bay Community College. This club focuses on developing computer-technologies projects, to improve related skills and teamwork.  
+### What is GBCC Tech?
+- GBCC Tech is a club at Great Bay Community College. This club focuses on developing computer-technologies projects, to improve related skills and teamwork.  
 
 
-### What do GBCC Tech Company do?
+### What do GBCC Tech do?
 
-GBCC Tech Company currently designed to do four activities:
+GBCC Tech currently designed to do four activities:
 
 1. **Meet-up**
   -> Meet-up is a mandatory meeting. At the beginning of the meeting members would discuss the state of the club. This is important because, it is where members should work on improving the club. Then, members would discuss club's current projects, future projects, and proposed projects. Finally, members would have an open discussion.  
